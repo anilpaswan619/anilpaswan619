@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Anil Paswan**.
 - 👀 I’m interested in *Web Development, Web Designing and Web Applications*.
-- 🌱 I’m currently working & learning `React.js, javaScript, Bootstrap CSS, HTML, Figma` and many more other web technologies.
+- 🌱 I’m currently working & learning on `React.js, javaScript, Bootstrap CSS, HTML, Figma` and many more other web technologies.
 - 💞️ I’m looking to collaborate on web application Projects.
 - 📫 How to reach me, Email: [anilpaswan619@gmail.com](http://www.gmail.com/)
 <!---
