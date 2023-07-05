@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Anil Paswan**.
-- 👀 I’m interested in *Web Development, Web Designing and Web Applications*.
-- 🌱 I’m currently working & learning on `React.js, javaScript, Bootstrap, SASS, CSS, HTML, Figma` and many more other web technologies.
-- 💞️ I’m looking to collaborate on web application Projects.
+- 👀 I’m interested in *Web Application Development and Novel UI Development*.
+- 🌱 I’m currently working & learning on `Angular, React, javaScript, Bootstrap, SASS, CSS, HTML` and many more other web technologies.
+- 💞️ I’m open to collaboration for web application Projects.
 - 📫 How to reach me, Email: [anilpaswan619@gmail.com](http://www.gmail.com/)
 <!---
 anilpaswan619/anilpaswan619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
