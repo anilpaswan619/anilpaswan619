@@ -2,7 +2,6 @@
 
 <p align="center">
   💻 Frontend Developer | 🎨 UI Engineer | ⚡ Passionate Coder <br />
-  <a href="mailto:anilpaswan619@gmail.com">📩 anilpaswan619@gmail.com</a>
 </p>
 
 ---
@@ -49,7 +48,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [anilpaswan619@gmail.com](mailto:anilpaswan619@gmail.com)
-- 💼 LinkedIn: (https://www.linkedin.com/in/anil-paswan-91466578/)
+- 💼 LinkedIn: https://www.linkedin.com/in/anil-paswan-91466578
 
 ---
 
