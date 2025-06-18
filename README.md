@@ -1,29 +1,31 @@
-<h1 align="center">Hi there, I'm Anil Paswan 👋</h1>
+<h1 align="center">Hi, I'm Anil Paswan 👋</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🎨 UI Engineer | ⚡ Passionate Coder <br />
+  💻 Frontend Developer & UI Engineer &nbsp; | &nbsp; 🎨 Creative Interface Designer &nbsp; | &nbsp; ⚡ Performance-Driven Coder
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m **Anil Paswan**, a Web/UI Developer passionate about building **scalable**, **performant**, and **intuitive** user interfaces.
-- 🌐 I specialize in **Frontend Development**, **Web Applications**, and **Innovative UI/UX** experiences.
-- 🌱 I'm currently upskilling in:
-  - JavaScript, TypeScript
-  - React, Next.js, Angular
-  - Tailwind CSS, Bootstrap, SCSS
-  - HTML5, CSS3, and other modern web technologies
-- 🤝 Open to collaboration on exciting frontend projects and startups.
-- 🧠 Always learning, always building.
+Hi! I'm **Anil Paswan**, a results-driven Web/UI Developer focused on delivering elegant, efficient, and scalable user interfaces.
+
+- 🔍 Passionate about **Frontend Development**, **Web Applications**, and **Creative UI/UX Engineering**
+- 💡 I aim to build seamless, high-performance experiences that balance functionality with aesthetic finesse
+- 🧠 Currently sharpening my skills in:
+  - **Languages:** JavaScript, TypeScript
+  - **Frameworks:** React, Next.js, Angular
+  - **Styling:** Tailwind CSS, Bootstrap, SCSS, CSS3
+  - **Core Web:** HTML5, Accessibility, Responsive Design
+- 🤝 Always open to contributing to meaningful frontend products, startups, or collaborations
+- 📈 Committed to lifelong learning, exploring trends, and writing clean, maintainable code
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind,bootstrap,scss,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind,bootstrap,scss,html,css,vite,git,github,vscode" />
 </p>
 
 ---
@@ -31,13 +33,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilpaswan619&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpaswan619&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anilpaswan619&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpaswan619&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anilpaswan619&theme=tokyo-night&area=true&hide_border=true" />
@@ -45,10 +47,10 @@
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 - 📧 Email: [anilpaswan619@gmail.com](mailto:anilpaswan619@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/anil-paswan-91466578
+- 💼 LinkedIn: [linkedin.com/in/anil-paswan-91466578](https://www.linkedin.com/in/anil-paswan-91466578)
 
 ---
 
