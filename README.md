@@ -38,22 +38,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anilpaswan619&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
-
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anilpaswan619&theme=tokyonight&hide_border=true&border_radius=6" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -65,7 +49,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [anilpaswan619@gmail.com](mailto:anilpaswan619@gmail.com)
-- 💼 LinkedIn: *[https://anilpaswan619.github.io]*
+- 💼 LinkedIn: https://anilpaswan619.github.io
 
 ---
 
