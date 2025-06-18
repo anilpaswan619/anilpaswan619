@@ -65,7 +65,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [anilpaswan619@gmail.com](mailto:anilpaswan619@gmail.com)
-- 💼 LinkedIn: *[Add your LinkedIn profile link here]*
+- 💼 LinkedIn: *[https://anilpaswan619.github.io]*
 
 ---
 
