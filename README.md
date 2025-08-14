@@ -47,11 +47,6 @@ Hi! I'm **Anil Paswan**, a results-driven Web/UI Developer focused on delivering
 
 ---
 
-### 📫 Let's Connect
-
-- 📧 Email: [anilpaswan619@gmail.com](mailto:anilpaswan619@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/anil-paswan-91466578](https://www.linkedin.com/in/anil-paswan-91466578)
-
 ---
 
 <!---
